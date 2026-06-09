@@ -10,5 +10,5 @@ new class extends Component
 
 <div>
     <h1 class="text-2x1 font-bold text-blue-500">Ngeri Bosque</h1>
-    {{-- Always remember that you are absolutely unique. Just like everyone else. -Margaret Mead --}}
+    {{-- Alwayss remember that you are absolutely unique. Just like everyone else. -Margaret Mead --}}
 </div>
